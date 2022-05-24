@@ -1,0 +1,47 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "users": [
+    {
+      "id": "1",
+      "firstName": "Nike",
+      "lastName": "Don",
+      "email": "don.nike@company.com",
+      "age": 49
+    },
+    {
+      "id": "2",
+      "firstName": "Sam",
+      "lastName": "Fanty",
+      "email": "sam.fanty@company.com",
+      "age": 34
+    },
+    {
+      "firstName": "Peter",
+      "lastName": "Niemen",
+      "age": 20,
+      "id": "13"
+    },
+    {
+      "firstName": "Dany",
+      "lastName": "Crocks",
+      "age": 31,
+      "id": "3"
+    }
+  ]
+}
