@@ -25,16 +25,14 @@ public class UsersTests {
 	}
 
 	@Test
-	public void verifyAllUsersRequest() {
+	public void verifyUserAccessTokenOnCreation() {
 		final String firstName = faker.name().firstName();
 		final UserPayloads user = new UserPayloads()
 				.firstName(firstName)
 				.lastName(faker.name().lastName())
 				.email(String.format("%s@gmail.com", firstName))
 				.password("heavyPassword");
-
 		userApiServices.registerUser(user)
 					   .shouldHaveWithResponse(Conditions.statusCode(201)).body("accessToken", Matchers.not(Matchers.empty()));
-
 	}
 }

@@ -22,7 +22,7 @@ public class ApiService {
 	}
 
 	private List<Filter> getFilters() {
-		ProjectConfig projectConfig = ConfigFactory.create(ProjectConfig.class);
+		final ProjectConfig projectConfig = ConfigFactory.create(ProjectConfig.class);
 		if (projectConfig.logging()) {
 			return Arrays.asList(new RequestLoggingFilter(), new ResponseLoggingFilter());
 		}

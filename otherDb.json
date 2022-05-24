@@ -125,6 +125,90 @@
       "firstName": "Cathy",
       "lastName": "Anderson",
       "id": 16
+    },
+    {
+      "email": "Kerry@gmail.com",
+      "password": "$2a$10$bj7HFPjA5kvUlsNiodXPFus0wqtr/jFWG9LLCdWayw6AAblEGZWMW",
+      "firstName": "Kerry",
+      "lastName": "Swift",
+      "id": 17
+    },
+    {
+      "email": "Sammy@gmail.com",
+      "password": "$2a$10$JawEm/GOZcowax1Ao01YbexfJ.5yrhmCfetDtuHT.39ErEsIoXUv2",
+      "firstName": "Sammy",
+      "lastName": "Dietrich",
+      "id": 18
+    },
+    {
+      "email": "Simon@gmail.com",
+      "password": "$2a$10$2NPjEgs8AeobUzFZdsUBjuNWRuaJY51XZBVmZrBbwshng9WVnB9Lm",
+      "firstName": "Simon",
+      "lastName": "McDermott",
+      "id": 19
+    },
+    {
+      "email": "Chi@gmail.com",
+      "password": "$2a$10$PoEHlVsm4GfiZE5A8Ea2uufCuxUVYkVVoIp09nLPqx6LuGv50DUn2",
+      "firstName": "Chi",
+      "lastName": "Beier",
+      "id": 20
+    },
+    {
+      "email": "Gilbert@gmail.com",
+      "password": "$2a$10$DdyY8Y1D77TBA4i6/MCIHuy3oIWzdeNNuDrLUoAM0KeGG7a8nP4Em",
+      "firstName": "Gilbert",
+      "lastName": "Weissnat",
+      "id": 21
+    },
+    {
+      "email": "Max@gmail.com",
+      "password": "$2a$10$caK/TXFoxSobKY8YFfwycOpiuR588NbWpzgST6ZaIoYE1hncXmqya",
+      "firstName": "Max",
+      "lastName": "Murphy",
+      "id": 22
+    },
+    {
+      "email": "Risa@gmail.com",
+      "password": "$2a$10$VZ08SKSTJZPzSNY2YOJiGOU6vYLbbQPj612rn0s3J2mwYzF2IQ0fi",
+      "firstName": "Risa",
+      "lastName": "Jast",
+      "id": 23
+    },
+    {
+      "email": "Janett@gmail.com",
+      "password": "$2a$10$GpZ3Z8xSclYEDQ7zbC2WieNtpd/623xQkWlMLEwm5uPD7iuW/KfZK",
+      "firstName": "Janett",
+      "lastName": "Cartwright",
+      "id": 24
+    },
+    {
+      "email": "Mary@gmail.com",
+      "password": "$2a$10$DfiprYgXPYoHsF8KUlXE/.UNgq60FFkco5sm6fEFbXv6nNbXCx4Oi",
+      "firstName": "Mary",
+      "lastName": "Halvorson",
+      "id": 25
+    },
+    {
+      "email": "Teodoro@gmail.com",
+      "password": "$2a$10$AZe/vhdEcSSgzufZkDQIoeHeBKhLTx5Aa9Gz1oJ.TJctOHy0DRPlW",
+      "firstName": "Teodoro",
+      "lastName": "Adams",
+      "id": 26
+    },
+    {
+      "email": "Alan@gmail.com",
+      "password": "$2a$10$9/5UBow4ozkky5yXmGDz.u6ReGlLyNlbbKVfcEKtZTVjM1HdQgeKW",
+      "firstName": "Alan",
+      "lastName": "Schowalter",
+      "id": 27
+    },
+    {
+      "email": "Suzy@gmail.com",
+      "password": "$2a$10$yAGEVJRfbwOtdGBX1Ea93uhCUkfU89jMpkn9d1Et1laY575gWHaGK",
+      "firstName": "Suzy",
+      "lastName": "Morissette",
+      "id": 28
     }
   ]
 }

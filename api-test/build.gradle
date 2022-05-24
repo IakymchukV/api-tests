@@ -7,6 +7,7 @@ version '1.0-SNAPSHOT'
 
 repositories {
     mavenCentral()
+    jcenter()
 }
 ext {
     testNgVersion = '7.5'
@@ -35,4 +36,11 @@ test {
         exceptionFormat = 'full'
     }
     test.outputs.upToDateWhen { false }
+}
+allure {
+    version = '2.18.1'
+    autoconfigure = true
+    aspectjweaver = true
+    configuration = "implementation"
+    allureJavaVersion = '2.18.1'
 }

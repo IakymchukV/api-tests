@@ -1,7 +1,6 @@
 package com.affinidi.api.assertions;
 
 import com.affinidi.api.conditions.ICondition;
-import io.restassured.http.Headers;
 import io.restassured.response.Response;
 import io.restassured.response.ValidatableResponse;
 import lombok.RequiredArgsConstructor;
